@@ -1,0 +1,2 @@
+https://doi.org/10.1037/a0018403
+Handle Redirect http://doi.apa.org/getdoi.cfm?doi=10.1037/a0018403
